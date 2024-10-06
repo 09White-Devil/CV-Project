@@ -4,7 +4,7 @@
 
 using namespace cv;
 using namespace std;
-
+ 
 int main() {
     // Load input image
     Mat img = imread("img1.jpg", IMREAD_GRAYSCALE);
