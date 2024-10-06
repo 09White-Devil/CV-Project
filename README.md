@@ -10,6 +10,13 @@ The assignment has three parts: key point detection, feature description, and fe
 2. **Feature description**: Find scale-invariant feature transform (SIFT) descriptor at each key point. 
 3. **Feature matching**: Find the matching features with sum of squared differences (SSD) and ratio distance. For ratio distance, find the closest and second closest features by SSD distance. The ratio distance is their ratio (i.e., SSD distance of the closest feature match divided by SSD distance of the second closest feature match).
 
+
+
+
+https://github.com/user-attachments/assets/ece55b18-b64c-455d-b491-0785ecb0c07a
+
+
+
 ## Prerequisites
 - **OpenCV 4.10.0** (with extra modules, including `xfeatures2d`)
 - **MinGW** as the compiler
