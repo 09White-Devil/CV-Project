@@ -1,5 +1,5 @@
 # Computer Vision Project - README
-
+ 
 ## Overview
 This project implements a computer vision application using **OpenCV** to demonstrate key concepts such as feature detection and manipulation of images. The project was developed using **C++** with **Code::Blocks** and **OpenCV 4.10.0** on **Windows**.
 
